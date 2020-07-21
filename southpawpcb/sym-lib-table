@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name random-keyboard-parts)(type Legacy)(uri "C:/Users/Fireo/Desktop/ai03 keyboard library/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "C:/Users/Fireo/Desktop/ai03 keyboard library/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri "C:/Users/Fireo/Desktop/ai03 keyboard library/Type-C.pretty-master/Type-C.lib")(options "")(descr ""))
+  (lib (name dk_TVS-Diodes)(type Legacy)(uri C:/Users/Fireo/Documents/GitHub/digikey-kicad-library/digikey-symbols/dk_TVS-Diodes.lib)(options "")(descr ""))
+  (lib (name southpawpcb-rescue)(type Legacy)(uri ${KIPRJMOD}/southpawpcb-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name Capacitor_SMD)(type KiCad)(uri C:/Users/Fireo/Desktop/southpaw75/libraries/defaultLibrary/Capacitor_SMD)(options "")(descr ""))
+  (lib (name Crystal)(type KiCad)(uri C:/Users/Fireo/Desktop/southpaw75/libraries/defaultLibrary/Crystal)(options "")(descr ""))
+  (lib (name Diode_SMD)(type KiCad)(uri C:/Users/Fireo/Desktop/southpaw75/libraries/defaultLibrary/Diode_SMD)(options "")(descr ""))
+  (lib (name Fuse)(type KiCad)(uri C:/Users/Fireo/Desktop/southpaw75/libraries/defaultLibrary/Fuse)(options "")(descr ""))
+  (lib (name Package_QFP)(type KiCad)(uri C:/Users/Fireo/Desktop/southpaw75/libraries/defaultLibrary/Package_QFP)(options "")(descr ""))
+  (lib (name Resistor_SMD)(type KiCad)(uri C:/Users/Fireo/Desktop/southpaw75/libraries/defaultLibrary/Resistor_SMD)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri C:/Users/Fireo/Desktop/southpaw75/libraries/MX_Alps_Hybrid-master/MX_Alps_Hybrid.pretty)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri C:/Users/Fireo/Desktop/southpaw75/libraries/random-keyboard-parts.pretty-master)(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri C:/Users/Fireo/Desktop/southpaw75/libraries/Type-C.pretty-master)(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri C:/Users/Fireo/Documents/GitHub/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
+)
