@@ -3742,7 +3742,7 @@ Wire Wire Line
 Wire Wire Line
 	2250 11100 2250 11800
 Wire Wire Line
-	8300 11075 8300 11875
+	8300 11075 8300 11800
 Connection ~ 8300 11075
 $Comp
 L Device:D_Small D44
@@ -3756,7 +3756,7 @@ F 3 "~" V 8100 12250 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	8100 12075 8100 12150
+	8100 12075 8100 12100
 Wire Wire Line
 	9950 9600 9950 11750
 $Comp
@@ -3862,4 +3862,27 @@ F 3 "~" H 7600 5250 50  0001 C CNN
 	1    7600 5250
 	1    0    0    -1  
 $EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX51
+U 1 1 5F833296
+P 8050 11850
+F 0 "MX51" H 8025 12050 60  0000 C CNN
+F 1 "1u fn" H 8025 11975 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 7425 11825 60  0001 C CNN
+F 3 "" H 7425 11825 60  0001 C CNN
+	1    8050 11850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8200 11800 8300 11800
+Connection ~ 8300 11800
+Wire Wire Line
+	8300 11800 8300 11875
+Wire Wire Line
+	8000 12000 8000 12100
+Wire Wire Line
+	8000 12100 8100 12100
+Connection ~ 8100 12100
+Wire Wire Line
+	8100 12100 8100 12150
 $EndSCHEMATC
