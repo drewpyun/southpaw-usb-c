@@ -1,4 +1,39 @@
-EESchema Schematic File Version 2
-EELAYER 25 0
+EESchema Schematic File Version 4
+LIBS:southpawcase-cache
+EELAYER 30 0
 EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Graphic:SYM_Hot_Small #SYM?
+U 1 1 5F7CF6A7
+P 6150 4100
+F 0 "#SYM?" H 6150 4240 50  0001 C CNN
+F 1 "SYM_Hot_Small" H 6150 3975 50  0001 C CNN
+F 2 "" H 6150 3925 50  0001 C CNN
+F 3 "~" H 6180 3900 50  0001 C CNN
+	1    6150 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Graphic:SYM_Hot_Large #SYM?
+U 1 1 5F7E0597
+P 6650 4100
+F 0 "#SYM?" H 6650 4300 50  0001 C CNN
+F 1 "SYM_Hot_Large" H 6650 3850 50  0001 C CNN
+F 2 "" H 6650 3900 50  0001 C CNN
+F 3 "~" H 6680 3900 50  0001 C CNN
+	1    6650 4100
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
